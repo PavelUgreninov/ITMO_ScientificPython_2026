@@ -1,4 +1,4 @@
-ensembl_download_1.fasta - contains incorrect IDs
+ensembl_download_1.fasta -  incorrect ID ENSDART0000018940031
 
 ensembl_download_2.fasta - invalid
 
